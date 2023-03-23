@@ -258,10 +258,10 @@ console.log(addition);
  let dance = "jargon"
  let wording = "on"
   if(sing.includes(wording)){
-    console.log(wording +"there is on in both python and dragon")
+    console.log(wording +"there is 'on' in both python and dragon")
     
   }else if(dance.includes(wording)){
-    console.log(wording +"There is on in both python and dragon")
+    console.log(wording +"There is 'on' in both python and dragon")
 
   }else{
     console.log(wording +"There is no 'on' in both dragon and python")
